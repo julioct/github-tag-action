@@ -1,6 +1,6 @@
 name: 'Github Tag Bump'
 description: 'Bump and push git tag on merge'
-author: 'Nick Sjostrom'
+author: 'Julio Casal'
 runs:
   using: 'docker'
   image: 'Dockerfile'
@@ -11,4 +11,4 @@ outputs:
     description: 'The latest tag after running this action'
 branding:
   icon: 'git-merge'  
-  color: 'purple'
+  color: 'red'
