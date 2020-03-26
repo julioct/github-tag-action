@@ -7,7 +7,7 @@ A Github Action to automatically bump and tag master, on merge, with the latest 
 ### Usage
 
 ```Dockerfile
-name: Bump version
+name: CI
 on:
   push:
     branches:
