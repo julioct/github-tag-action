@@ -2,7 +2,7 @@
 
 A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. 
 
-![Bump version](https://github.com/julioct/github-tag-action/workflows/Bump%20version/badge.svg)
+![CI](https://github.com/julioct/github-tag-action/workflows/CI/badge.svg)
 
 ### Usage
 
