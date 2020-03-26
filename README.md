@@ -1,6 +1,6 @@
 # github-tag-action
 
-A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version.
+A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. 
 
 [![Build Status](https://github.com/julioct/github-tag-action/workflows/Bump%20version/badge.svg)](https://github.com/julioct/github-tag-action/workflows/Bump%20version/badge.svg)
 
