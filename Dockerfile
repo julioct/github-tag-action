@@ -1,7 +1,4 @@
 FROM alpine
-LABEL "repository"="https://github.com/anothrNick/github-tag-action"
-LABEL "homepage"="https://github.com/anothrNick/github-tag-action"
-LABEL "maintainer"="Nick Sjostrom"
 
 COPY ./contrib/semver ./contrib/semver
 RUN install ./contrib/semver /usr/local/bin
